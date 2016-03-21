@@ -1,5 +1,5 @@
 # DataScraping
-Data Scraping from twitter.
+Data Scraping from twitter in Python.
 
 Scraping twitt, reading/writing based on buffer not by file!
 
